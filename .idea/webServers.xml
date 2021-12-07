@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd300383-c0a7-4118-b5fb-d0b30b5526ea" name="libMgrServer" url="http://119.3.107.127:8080">
+        <fileTransfer rootFolder="/usr/local/apache-tomcat-9.0.55/webapps" accessType="SFTP" host="119.3.107.127" port="22" sshConfigId="ffd0c1b8-ec69-4952-8e8f-f6d502c08236" sshConfig="root@119.3.107.127:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
