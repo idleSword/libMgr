@@ -7,10 +7,12 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>libMgr</title>
-  </head>
-  <body>
-  Hello World,!!
-  </body>
+</head>
+<body>
+    <script>
+        window.location.href = "login.html"
+    </script>
+</body>
 </html>
